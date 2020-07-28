@@ -2,6 +2,15 @@
 -----
 
 ## Configuration
+
+### Global settings
+- `git config --global user.name Foxy-z`
+- `git config --global user.username foxy`
+- `git config --global user.signingkey 98E9E826929ECF1C`
+- `git config --global user.email thefoxy41@gmail.com`
+- `git config --global commit.gpgsign true`
+- `git config --global commit.autocrlf true`
+
 ### Git config for multiple users
 
 - Git config file
