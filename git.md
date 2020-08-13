@@ -26,7 +26,7 @@
 ```
 ```
 [user]
-        name = Loïc Frémaux
+        name = "Loïc Frémaux"
         username = loicfmx
         email = loic.fremaux1@gmail.com
         signingkey = 0C3F9C8353CF19B8
